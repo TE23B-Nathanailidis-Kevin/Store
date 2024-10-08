@@ -12,3 +12,4 @@ c:\Users\kevin.nathanailidis\OneDrive - Academedia\Documents\Programmering 1\Sto
 c:\Users\kevin.nathanailidis\OneDrive - Academedia\Documents\Programmering 1\Store\Store\obj\Debug\net8.0\Store.pdb
 c:\Users\kevin.nathanailidis\OneDrive - Academedia\Documents\Programmering 1\Store\Store\obj\Debug\net8.0\Store.genruntimeconfig.cache
 c:\Users\kevin.nathanailidis\OneDrive - Academedia\Documents\Programmering 1\Store\Store\obj\Debug\net8.0\ref\Store.dll
+c:\Users\kevin.nathanailidis\OneDrive - Academedia\Documents\Programmering 1\Store\Store\obj\Debug\net8.0\Store.sourcelink.json
